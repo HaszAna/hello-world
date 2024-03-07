@@ -1,3 +1,3 @@
 # hello-world
-# its just for testting
+#test
 This repository is for practising the GitHub Flow
